@@ -1,0 +1,8 @@
+{
+    "bundles": {
+        "Thunderwolf\\CoreBundle\\ThunderwolfCoreBundle": ["all"]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}

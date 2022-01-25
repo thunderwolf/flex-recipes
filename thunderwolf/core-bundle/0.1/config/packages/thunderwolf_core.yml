@@ -1,0 +1,5 @@
+service:
+  name: change-me
+sentry:
+  traces:
+    sample_rate: 1.0
